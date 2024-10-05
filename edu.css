@@ -155,27 +155,3 @@ body {
     font-family: Georgia, 'Times New Roman', Times, serif;
     
   }
-
-.specialization-cards {
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: center;
-   
-.card {
-    background-color: #f7f7f7;
-    border: 1px solid #ddd;
-    border-radius: 10px;
-    margin: 20px;
-    padding: 20px;
-    width: calc(33.33% - 20px);
-}
-
-.jobs {
-    padding: 2em;
-}
-
-job-cards {
-    display: flex;
-    flex-wrap: wrap;
-    justify-content:;
-}
